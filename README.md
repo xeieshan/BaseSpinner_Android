@@ -3,18 +3,18 @@ A simple and easy to use, highly customizable Spinner for Android Developers, wr
 
 ### Include the spinner object in XML
 ```xml
-<com.android.utils.BaseSpinner 
-    android:id="@+id/spinner_site"
+<com.example.customspinner.BaseSpinner 
+    android:id="@+id/spinner_country"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_gravity="center_vertical"
     android:layout_margin="5dp"
     app:headerColor="#000000"
     app:baseColor="@color/black"
-    app:headerText="@string/select_your_site"
-    app:placeholder="@string/spinner_placeholder"
+    app:headerText="Select your site"
+    app:placeholder="Select"
     app:enableHeader="true"> 
-</com.android.utils.BaseSpinner>
+</com.example.customspinner.BaseSpinner>
 ```
 
 ### Declare Properties
