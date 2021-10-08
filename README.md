@@ -67,5 +67,7 @@ A simple and easy to use, highly customizable Spinner for Android Developers, wr
 *This will also invoke onValueChanged method*
 
 ### Image
+#### focused
 ![Focused](https://github.com/xeieshan/BaseSpinner_Android/raw/main/Spinner%20focused.png)
+#### not focused
 ![Not Focused](https://github.com/xeieshan/BaseSpinner_Android/raw/main/Spinner%20not%20focused.png)
