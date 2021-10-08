@@ -2,7 +2,6 @@
 A simple and easy to use, highly customizable Spinner for Android Developers, written in Java.
 
 ### Include the spinner object in XML
-
 ```xml
 <com.android.utils.BaseSpinner 
     android:id="@+id/spinner_site"
@@ -60,3 +59,9 @@ A simple and easy to use, highly customizable Spinner for Android Developers, wr
         }
     });
 ```
+
+### Unselect
+```android
+    btnSubmit.selectPlaceholder();
+```
+*This will also invoke onValueChanged method*
