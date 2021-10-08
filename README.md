@@ -65,3 +65,7 @@ A simple and easy to use, highly customizable Spinner for Android Developers, wr
     btnSubmit.selectPlaceholder();
 ```
 *This will also invoke onValueChanged method*
+
+### Image
+![Focused](https://github.com/xeieshan/BaseSpinner_Android/raw/main/Spinner%20focused.png)
+![Not Focused](https://github.com/xeieshan/BaseSpinner_Android/raw/main/Spinner%20not%20focused.png)
