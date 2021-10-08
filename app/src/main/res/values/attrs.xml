@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BaseSpinner">
+        <attr name="baseColor" format="color"/>
+        <attr name="placeholder" format="string"/>
+        <attr name="headerText" format="string"/>
+        <attr name="headerColor" format="color"/>
+        <attr name="typeface" format="string"/>
+        <attr name="enableHeader" format="boolean"/>
+    </declare-styleable>
+</resources>

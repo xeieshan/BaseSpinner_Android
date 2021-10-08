@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomSpinner</string>
+    <string name="select_your_country">Select your country</string>
+    <string name="spinner_placeholder">Select</string>
+</resources>
